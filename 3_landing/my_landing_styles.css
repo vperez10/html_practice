@@ -1,5 +1,5 @@
 /* This is here to give everything a red border, just to make it easier to see while developing. */
-* {
+{
   box-sizing: border-box;
 
   border: thin red solid;
