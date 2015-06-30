@@ -30,7 +30,8 @@ body{
 }
 
 .square{
-	border: blue;
+	border: black;
+	color: orange;
 	font-size: 48px;
 	height: 72px;
 	width: 72px;
@@ -40,7 +41,7 @@ body{
 
 .dark_square{
 	border: black;
-	color: black;
+	color: orange;
 	font-size: 48px;
 	height: 72px;
 	width: 72px;
