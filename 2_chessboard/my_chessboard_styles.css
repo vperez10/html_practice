@@ -20,13 +20,32 @@ Write your CSS rules below.
 */
 
 body{
-	background-image: url"grey.png";
+	background-image: url("grey.png");
 }
 
 .board{
 	border: thick green solid;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.square{
+	border: blue;
+	font-size: 48px;
+	height: 72px;
+	width: 72px;
+	background: white;
+	text-align: center;
+}
+
+.dark_square{
+	border: black;
+	color: black;
+	font-size: 48px;
+	height: 72px;
+	width: 72px;
+	background: green;
+	text-align: center;
 }
 
 
