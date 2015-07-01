@@ -1,0 +1,8 @@
+.canvas {
+  box-sizing: border-box;
+  border: thin black solid;
+}
+.canvas_section {
+  box-sizing: border-box;
+  border: thin black solid;
+}
