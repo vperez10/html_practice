@@ -1,8 +1,14 @@
-.canvas {
-  box-sizing: border-box;
-  border: thin black solid;
-}
 .canvas_section {
   box-sizing: border-box;
   border: thin black solid;
+  text-indent: 10px;
+}
+
+ul li {
+	list-style-type: none;
+	margin: 0;
+	text-align: left;
+	text-indent: 0px;
+	padding-left: 0px;
+	margin-left: 0;
 }
